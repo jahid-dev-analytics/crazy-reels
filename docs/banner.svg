@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs><radialGradient id="g" cx="50%" cy="0%" r="80%"><stop offset="0" stop-color="#2A1520"/><stop offset="1" stop-color="#101614"/></radialGradient></defs>
+<rect width="1280" height="640" rx="28" fill="url(#g)"/>
+<text x="640.0" y="128" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="84" font-weight="800" fill="#EC6E9B">Crazy Reels</text>
+<text x="640.0" y="182" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="30" fill="#E6EEEB">Watch your brain get tired, one reel at a time.</text>
+<circle cx="124.0" cy="371.0" r="46.0" fill="#43C28A"/>
+<circle cx="168.0" cy="355.0" r="50.0" fill="#43C28A"/>
+<circle cx="212.0" cy="371.0" r="46.0" fill="#43C28A"/>
+<circle cx="116.0" cy="415.0" r="42.0" fill="#43C28A"/>
+<circle cx="168.0" cy="411.0" r="56.0" fill="#43C28A"/>
+<circle cx="220.0" cy="415.0" r="42.0" fill="#43C28A"/>
+<path d="M101.1,345.5 A18.0,16.0 0 0 1 134.9,345.5" fill="none" stroke="#000" stroke-opacity="0.18" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M151.1,327.5 A18.0,16.0 0 0 1 184.9,327.5" fill="none" stroke="#000" stroke-opacity="0.18" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M201.1,345.5 A18.0,16.0 0 0 1 234.9,345.5" fill="none" stroke="#000" stroke-opacity="0.18" stroke-width="4.4" stroke-linecap="round"/>
+<line x1="168.0" y1="311.0" x2="168.0" y2="343.0" stroke="#000" stroke-opacity="0.18" stroke-width="4.4" stroke-linecap="round"/>
+<ellipse cx="142.0" cy="397.0" rx="8.4" ry="10.0" fill="#15201D"/>
+<ellipse cx="194.0" cy="397.0" rx="8.4" ry="10.0" fill="#15201D"/>
+<path d="M142.0,425.0 Q168.0,445.0 194.0,425.0" fill="none" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<text x="168.0" y="521" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#E6EEEB">Fresh</text>
+<text x="168.0" y="555" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#9AABA6">0+ reels</text>
+<path d="M278.0,389 l10,6 l-10,6" fill="none" stroke="#3A4642" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="360.0" cy="373.0" r="46.0" fill="#A5CC4F"/>
+<circle cx="404.0" cy="357.0" r="50.0" fill="#A5CC4F"/>
+<circle cx="448.0" cy="373.0" r="46.0" fill="#A5CC4F"/>
+<circle cx="352.0" cy="417.0" r="42.0" fill="#A5CC4F"/>
+<circle cx="404.0" cy="413.0" r="56.0" fill="#A5CC4F"/>
+<circle cx="456.0" cy="417.0" r="42.0" fill="#A5CC4F"/>
+<path d="M337.1,345.5 A18.0,16.0 0 0 1 370.9,345.5" fill="none" stroke="#000" stroke-opacity="0.20" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M387.1,327.5 A18.0,16.0 0 0 1 420.9,327.5" fill="none" stroke="#000" stroke-opacity="0.20" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M437.1,345.5 A18.0,16.0 0 0 1 470.9,345.5" fill="none" stroke="#000" stroke-opacity="0.20" stroke-width="4.4" stroke-linecap="round"/>
+<line x1="404.0" y1="311.0" x2="404.0" y2="343.0" stroke="#000" stroke-opacity="0.20" stroke-width="4.4" stroke-linecap="round"/>
+<ellipse cx="378.0" cy="397.0" rx="8.4" ry="7.5" fill="#15201D"/>
+<ellipse cx="430.0" cy="397.0" rx="8.4" ry="7.5" fill="#15201D"/>
+<path d="M378.0,425.0 Q404.0,437.0 430.0,425.0" fill="none" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<text x="404.0" y="521" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#E6EEEB">A bit tired</text>
+<text x="404.0" y="555" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#9AABA6">50+ reels</text>
+<path d="M514.0,389 l10,6 l-10,6" fill="none" stroke="#3A4642" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="596.0" cy="375.0" r="46.0" fill="#F0BB45"/>
+<circle cx="640.0" cy="359.0" r="50.0" fill="#F0BB45"/>
+<circle cx="684.0" cy="375.0" r="46.0" fill="#F0BB45"/>
+<circle cx="588.0" cy="419.0" r="42.0" fill="#F0BB45"/>
+<circle cx="640.0" cy="415.0" r="56.0" fill="#F0BB45"/>
+<circle cx="692.0" cy="419.0" r="42.0" fill="#F0BB45"/>
+<path d="M573.1,345.5 A18.0,16.0 0 0 1 606.9,345.5" fill="none" stroke="#000" stroke-opacity="0.23" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M623.1,327.5 A18.0,16.0 0 0 1 656.9,327.5" fill="none" stroke="#000" stroke-opacity="0.23" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M673.1,345.5 A18.0,16.0 0 0 1 706.9,345.5" fill="none" stroke="#000" stroke-opacity="0.23" stroke-width="4.4" stroke-linecap="round"/>
+<line x1="640.0" y1="311.0" x2="640.0" y2="343.0" stroke="#000" stroke-opacity="0.23" stroke-width="4.4" stroke-linecap="round"/>
+<ellipse cx="614.0" cy="397.0" rx="8.4" ry="5.0" fill="#15201D"/>
+<ellipse cx="666.0" cy="397.0" rx="8.4" ry="5.0" fill="#15201D"/>
+<path d="M614.0,425.0 Q640.0,429.0 666.0,425.0" fill="none" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<text x="640.0" y="521" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#E6EEEB">Foggy</text>
+<text x="640.0" y="555" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#9AABA6">100+ reels</text>
+<path d="M750.0,389 l10,6 l-10,6" fill="none" stroke="#3A4642" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="832.0" cy="377.0" r="46.0" fill="#F08550"/>
+<circle cx="876.0" cy="361.0" r="50.0" fill="#F08550"/>
+<circle cx="920.0" cy="377.0" r="46.0" fill="#F08550"/>
+<circle cx="824.0" cy="421.0" r="42.0" fill="#F08550"/>
+<circle cx="876.0" cy="417.0" r="56.0" fill="#F08550"/>
+<circle cx="928.0" cy="421.0" r="42.0" fill="#F08550"/>
+<path d="M809.1,345.5 A18.0,16.0 0 0 1 842.9,345.5" fill="none" stroke="#000" stroke-opacity="0.25" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M859.1,327.5 A18.0,16.0 0 0 1 892.9,327.5" fill="none" stroke="#000" stroke-opacity="0.25" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M909.1,345.5 A18.0,16.0 0 0 1 942.9,345.5" fill="none" stroke="#000" stroke-opacity="0.25" stroke-width="4.4" stroke-linecap="round"/>
+<line x1="876.0" y1="311.0" x2="876.0" y2="343.0" stroke="#000" stroke-opacity="0.25" stroke-width="4.4" stroke-linecap="round"/>
+<ellipse cx="850.0" cy="397.0" rx="8.4" ry="2.5" fill="#15201D"/>
+<ellipse cx="902.0" cy="397.0" rx="8.4" ry="2.5" fill="#15201D"/>
+<path d="M850.0,425.0 Q876.0,421.0 902.0,425.0" fill="none" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<text x="876.0" y="521" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#E6EEEB">Heavy head</text>
+<text x="876.0" y="555" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#9AABA6">150+ reels</text>
+<path d="M986.0,389 l10,6 l-10,6" fill="none" stroke="#3A4642" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1068.0" cy="379.0" r="46.0" fill="#C47FA2"/>
+<circle cx="1112.0" cy="363.0" r="50.0" fill="#C47FA2"/>
+<circle cx="1156.0" cy="379.0" r="46.0" fill="#C47FA2"/>
+<circle cx="1060.0" cy="423.0" r="42.0" fill="#C47FA2"/>
+<circle cx="1112.0" cy="419.0" r="56.0" fill="#C47FA2"/>
+<circle cx="1164.0" cy="423.0" r="42.0" fill="#C47FA2"/>
+<path d="M1045.1,345.5 A18.0,16.0 0 0 1 1078.9,345.5" fill="none" stroke="#000" stroke-opacity="0.28" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M1095.1,327.5 A18.0,16.0 0 0 1 1128.9,327.5" fill="none" stroke="#000" stroke-opacity="0.28" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M1145.1,345.5 A18.0,16.0 0 0 1 1178.9,345.5" fill="none" stroke="#000" stroke-opacity="0.28" stroke-width="4.4" stroke-linecap="round"/>
+<line x1="1112.0" y1="311.0" x2="1112.0" y2="343.0" stroke="#000" stroke-opacity="0.28" stroke-width="4.4" stroke-linecap="round"/>
+<path d="M1077.0,388.0 L1095.0,406.0 M1077.0,406.0 L1095.0,388.0" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<path d="M1129.0,388.0 L1147.0,406.0 M1129.0,406.0 L1147.0,388.0" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<path d="M1086.0,425.0 Q1112.0,413.0 1138.0,425.0" fill="none" stroke="#15201D" stroke-width="5.6" stroke-linecap="round"/>
+<path d="M1064.0,303.0 C1054.0,293.0 1074.0,285.0 1064.0,275.0" fill="none" stroke="#7FA650" stroke-width="4.0" stroke-linecap="round"/>
+<path d="M1112.0,303.0 C1102.0,293.0 1122.0,285.0 1112.0,275.0" fill="none" stroke="#7FA650" stroke-width="4.0" stroke-linecap="round"/>
+<path d="M1160.0,303.0 C1150.0,293.0 1170.0,285.0 1160.0,275.0" fill="none" stroke="#7FA650" stroke-width="4.0" stroke-linecap="round"/>
+<text x="1112.0" y="521" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#E6EEEB">Rotten</text>
+<text x="1112.0" y="555" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#9AABA6">200+ reels</text>
+<text x="640.0" y="600" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="22" fill="#9AABA6">Android · Kotlin · Jetpack Compose · no internet permission · data never leaves your phone</text>
+</svg>
