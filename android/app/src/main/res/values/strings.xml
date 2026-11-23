@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Crazy Reels</string>
+    <string name="reels_today">reels today</string>
+
+    <string name="brain_fresh">Fresh</string>
+    <string name="brain_fresh_line">Sharp and awake. Keep it this way.</string>
+    <string name="brain_tired">A bit tired</string>
+    <string name="brain_tired_line">Your brain has started to yawn.</string>
+    <string name="brain_foggy">Foggy</string>
+    <string name="brain_foggy_line">Hard to focus now. Good time to stop.</string>
+    <string name="brain_heavy">Heavy head</string>
+    <string name="brain_heavy_line">This is where hours disappear.</string>
+    <string name="brain_rotten">Rotten</string>
+    <string name="brain_rotten_line">200+ reels. Your brain needs a walk.</string>
+
+    <string name="turn_on_title">Turn on reel counting</string>
+    <string name="turn_on_body">Crazy Reels uses Android\'s Accessibility feature to see when a new reel appears in Instagram, Facebook, TikTok, YouTube and Snapchat. It reads only those apps, and your data stays on your phone.</string>
+    <string name="turn_on_button">Open settings</string>
+
+    <string name="live_counter">Show live counter while scrolling</string>
+
+    <string name="service_label">Crazy Reels counter</string>
+    <string name="service_description">Counts the reels and shorts you scroll in Instagram, Facebook, TikTok, YouTube and Snapchat. Crazy Reels reads the screen only inside those apps, only to count reels, and the count stays on your phone.</string>
+
+    <string name="dev_title">Developer</string>
+    <string name="dev_record">Record screen layout</string>
+    <string name="dev_record_lines">%1$d lines recorded</string>
+    <string name="dev_preview">Preview brain with slider</string>
+</resources>

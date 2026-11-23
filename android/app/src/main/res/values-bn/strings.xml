@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reels_today">আজকের reel</string>
+
+    <string name="brain_fresh">তাজা</string>
+    <string name="brain_fresh_line">মাথা পরিষ্কার। এভাবেই রাখুন।</string>
+    <string name="brain_tired">একটু ক্লান্ত</string>
+    <string name="brain_tired_line">brain হাই তুলতে শুরু করেছে।</string>
+    <string name="brain_foggy">ঝাপসা</string>
+    <string name="brain_foggy_line">মনোযোগ কমে যাচ্ছে। থামার ভালো সময়।</string>
+    <string name="brain_heavy">ভারী মাথা</string>
+    <string name="brain_heavy_line">এখান থেকেই ঘণ্টার পর ঘণ্টা হারায়।</string>
+    <string name="brain_rotten">Rotten</string>
+    <string name="brain_rotten_line">২০০+ reel। brain-কে একটু হাঁটতে নিয়ে যান।</string>
+
+    <string name="turn_on_title">reel গোনা চালু করুন</string>
+    <string name="turn_on_body">নতুন reel এলে বুঝতে Crazy Reels Android-এর Accessibility সুবিধা ব্যবহার করে। এটা শুধু Instagram, Facebook, TikTok, YouTube আর Snapchat পড়ে, আর আপনার তথ্য ফোনেই থাকে।</string>
+    <string name="turn_on_button">সেটিংস খুলুন</string>
+
+    <string name="live_counter">scroll করার সময় স্ক্রিনে লাইভ কাউন্টার দেখান</string>
+
+    <string name="service_label">Crazy Reels কাউন্টার</string>
+    <string name="service_description">Instagram, Facebook, TikTok, YouTube আর Snapchat-এ কতগুলো reel আর short দেখছেন তা গোনে। Crazy Reels শুধু ওই অ্যাপগুলোর স্ক্রিন পড়ে, শুধু reel গোনার জন্য, আর সংখ্যা আপনার ফোনেই থাকে।</string>
+
+    <string name="dev_title">ডেভেলপার</string>
+    <string name="dev_record">স্ক্রিনের গঠন রেকর্ড করুন</string>
+    <string name="dev_record_lines">%1$d লাইন রেকর্ড হয়েছে</string>
+    <string name="dev_preview">স্লাইডার দিয়ে brain প্রিভিউ</string>
+</resources>
